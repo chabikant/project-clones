@@ -60,4 +60,4 @@ function BodyMain() {
   )
 }
 
-export default BodyMain
+export default BodyMain;
