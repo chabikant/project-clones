@@ -1,6 +1,6 @@
 import React from 'react'
 import BodyMain from './BodyMain'
-import Footer from '../footer/Footer'
+// import Footer from '../footer/Footer'
 
 function Home() {
   return (

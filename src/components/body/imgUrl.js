@@ -7,6 +7,7 @@ export const imgArr = [
     {img:'https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/3/10/70a0268c-af3e-460a-8ee6-e33e937e44771646907588966-unnamed--68-.jpg'}
 ]
 
+
 export const offerImg = [
     {img:'https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2022/3/8/146e1519-1e51-458e-ac86-0bcf2a960ed81646747314118-Kurtas-_-Kurta-Sets-Men.jpg'},
     {img:'https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2022/3/8/ee94691e-c0f7-480e-8a35-8e9e4eaef5e81646747314141-Loungewear--Men.jpg'},
@@ -15,6 +16,7 @@ export const offerImg = [
     {img:'https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2022/3/8/dd45eb4a-5939-4a82-b6c5-6c8f383770591646747314042-Jeans--Men-.jpg'},
     {img:'https://assets.myntassets.com/f_webp,w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2022/3/8/3e707144-97c7-43b0-9015-185eecf8eeb91646747314294-Trackpants-Men.jpg'}
 ] 
+
 
 export const imgMenArr = [
     {img:'https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/3/8/60a262c5-9db6-48c4-bbe3-2617ecfb55161646716024402-summerreadytshirt.jpg'},
@@ -25,6 +27,7 @@ export const imgMenArr = [
     {img:'https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/3/10/70a0268c-af3e-460a-8ee6-e33e937e44771646907588966-unnamed--68-.jpg'}
 ]
 
+
 export const imgWomenArr = [
     {img:'https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/3/4/398e2bdd-f4b1-4b50-b11f-18a8a5e635f41646397602565-W-_Biba.jpg'},
     {img:'https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/3/4/7b7ef71d-0c08-4833-8003-482df6d854971646397602518-Libas-_Varanga.jpg'},
@@ -33,6 +36,7 @@ export const imgWomenArr = [
     {img:'https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/3/4/b6c57a9e-da1b-49f1-8c6a-a3840550feb81646397602558-Vero_moda-_AND-_and_More-All_Whitesea-.png'},
     {img:'https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/3/4/29c5afae-408e-4574-88f1-ff0b2ea066241646397602502-HRX-_Puma_-_More.jpg'}
 ]
+
 
 export const imgWomenOfferArr = [
     {img:'https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/3/9/b2ba8538-0827-4592-bdfd-776a67b8f7c91646766029120-Sugar.jpg'},
@@ -43,6 +47,7 @@ export const imgWomenOfferArr = [
     {img:'https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/3/7/8ae5d4ef-69e4-4ad7-aaaa-fe6b23f897401646663284501-KaratCart.jpg'}
 ]
 
+
 export const imgKidsArr = [
     {img:'https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/9/f79446fb-46b9-455a-a6c0-4ffe3f58dd071604906586106-23-IconicBrands-H_M.jpg'},
     {img:'https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/9/0f0d799d-cadd-42d9-b024-7fb0bd33cce11604906586007-21-IconicBrands-GAP.jpg'},
@@ -51,6 +56,7 @@ export const imgKidsArr = [
     {img:'https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/9/f23d49ee-a598-4039-a6cd-33dab8a7e2011604906586056-22-IconicBrands-M_S.jpg'},
     {img:'https://assets.myntassets.com/f_webp,w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2020/11/9/0f9ec937-304a-433a-9433-5409c556831c1604906586152-24-IconicBrands-TommyHilfiger.jpg'}
 ]
+
 
 export const brandImg = [
     {img:'https://assets.myntassets.com/f_webp,w_140,c_limit,fl_progressive,dpr_2.0/assets/images/2022/3/7/f3439b22-2810-4ea2-895b-00291ea9cf191646663284762-Red_Tape.jpg'},

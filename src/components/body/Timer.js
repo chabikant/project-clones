@@ -12,7 +12,7 @@ function Timer() {
     let interval;
 
     const startTimmer = () => {
-        const countDounDate = new Date('May 30,2022').getTime()
+        const countDounDate = new Date('May 30,2023').getTime()
         // console.log(countDounDate);
 
         interval = setInterval(() => {
@@ -56,4 +56,4 @@ function Timer() {
     )
 }
 
-export default Timer
+export default Timer;
